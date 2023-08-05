@@ -1,3 +1,5 @@
+<img src="https://github.com/FabianRamirezVidal/FabianRamirezVidal/blob/main/FabianRamirez.png" alt="banner that says Fabian Ramirez fullstack web development">
+
 ### Hi there 👋
 
 <!--
