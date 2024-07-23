@@ -86,13 +86,11 @@
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=12130276353&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
-
 <br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=FabianRamirezVidal&&style=flat-square" align="center" />
-</div>  
+</div>
   
 
 <br/>  
